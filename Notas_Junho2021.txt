@@ -57,4 +57,11 @@ nothing to commit, working tree clean
 PS C:\Users\thiag\OneDrive\Documentos\RepositorioGit2> git status
 On branch master
 nothing to commit, working tree clean
-PS C:\Users\thiag\OneDrive\Documentos\RepositorioGit2> 
+PS C:\Users\thiag\OneDrive\Documentos\RepositorioGit2>
+
+
+
+https://www.linkedin.com/in/thiagodmm
+
+
+ 
